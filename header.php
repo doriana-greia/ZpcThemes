@@ -2,7 +2,7 @@
 <html <?php language_attributes(); ?>>
 
 <head>
-    <meta charset="UTF-8">
+<meta charset="<?php bloginfo('charset'); ?>">
 
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
