@@ -278,7 +278,7 @@
             <div class="row">
                 <div class="section-title col-md-12"><h2>Корисні посилання</h2></div>
 
-                <div class="useful_links__trig col-md-2 col-md-3 ">
+                <div class="useful_links__trig col-md-2 col-md-3 col-xs-6">
                         <div class="useful_links_trig_icon">
                             <p><a href="http://map.land.gov.ua/kadastrova-karta" target="_blank"><img src="<?php echo get_template_directory_uri().'/img/icon-links-1.png'; ?>" alt="Публічна кадастрова карта України"></a></p>
                         </div>
@@ -287,7 +287,7 @@
 
 
 
-                <div class=" col-md-3 col-md-2 ">
+                <div class=" col-md-3 col-md-2 col-xs-6">
                 <div class="useful_links_trig">
                     <div class="useful_links__trig_icon">
                          <p><a href="http://land.gov.ua/" target="_blank"><img src="<?php echo get_template_directory_uri().'/img/icon-links-2.png'; ?>" alt="Держгеокадастр"></a></p>
@@ -298,7 +298,7 @@
 
 
 
-                <div class="col-md-3 col-md-2 ">
+                <div class="col-md-3 col-md-2 col-xs-6">
                 <div class="useful_links_trig">
                     <div class="useful_links__trig_icon">
                         <p><a href="http://mkk.kga.gov.ua/" target="_blank"><img src="<?php echo get_template_directory_uri().'/img/icon-links-3.png'; ?>" alt="Містобудівний Кадастр Києва"></a></p>
@@ -307,7 +307,7 @@
                 </div><!-- /.useful_links_trig-->
                 </div>
 
-            <div class="col-md-2 col-md-3 ">
+            <div class="col-md-2 col-md-3 col-xs-6">
             <div class="useful_links_trig">
                     <div class="useful_links__trig_icon">
                        <p><a href="http://gisfile.com/map/" target="_blank"><img src="<?php echo get_template_directory_uri().'/img/icon-links-4.png'; ?>" alt="ГЕО-інформаційний сервіс для створення карт"></a></p>
@@ -315,7 +315,7 @@
             </div><!-- /.useful_links_trig-->
             </div>
 
-            <div class="col-md-3 col-md-2 ">
+            <div class="col-md-3 col-md-2 col-xs-6">
             <div class="useful_links_trig">
                     <div class="useful_links__trig_icon">
                          <p><a href="https://kyivcity.gov.ua/content/79_departament-zemelnykh-resursiv.html" target="_blank"><img src="<?php echo get_template_directory_uri().'/img/icon-links-5.png'; ?>" alt="Київська міська державна адміністрація"></a></p>
@@ -323,10 +323,34 @@
             </div><!-- /.useful_links_trig-->
             </div>
 
-            <div class="col-md-3 col-md-2 ">
+            <div class="col-md-3 col-md-2 col-xs-6">
             <div class="useful_links_trig">
                     <div class="useful_links__trig_icon">
                          <p><a href="http://zakon0.rada.gov.ua/laws" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-6.png'; ?>" alt="Законодавство України"></a></p>
+                    </div>
+            </div><!-- /.useful_links_trig-->
+            </div>
+
+            <div class="col-md-3 col-md-2 col-xs-6">
+            <div class="useful_links_trig">
+                    <div class="useful_links__trig_icon">
+                         <p><a href="https://systemnet.com.ua/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-7.png'; ?>" alt="АО Систем Солюшнс"></a></p>
+                    </div>
+            </div><!-- /.useful_links_trig-->
+            </div>
+
+            <div class="col-md-3 col-md-2 col-xs-6">
+            <div class="useful_links_trig">
+                    <div class="useful_links__trig_icon">
+                         <p><a href="https://tnt-tpi.com/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-8.png'; ?>" alt="Компанія ТНТ ТПІ"></a></p>
+                    </div>
+            </div><!-- /.useful_links_trig-->
+            </div>
+
+            <div class="col-md-3 col-md-2 col-xs-6">
+            <div class="useful_links_trig">
+                    <div class="useful_links__trig_icon">
+                         <p><a href="http://elnav.com.ua/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-9.png'; ?>" alt="ТОВ ЕЛНАВ"></a></p>
                     </div>
             </div><!-- /.useful_links_trig-->
             </div>
