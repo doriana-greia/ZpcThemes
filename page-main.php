@@ -1,4 +1,4 @@
-<?php get_header();?>
+﻿<?php get_header();?>
 
     <section class="about-us" id="aboutUs">
         <div class="container">
@@ -350,7 +350,23 @@
             <div class="col-md-3 col-md-2 col-xs-6">
             <div class="useful_links_trig">
                     <div class="useful_links__trig_icon">
-                         <p><a href="http://elnav.com.ua/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-9.png'; ?>" alt="ТОВ ЕЛНАВ"></a></p>
+                         <p><a href="https://elnav.com.ua/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-9.png'; ?>" alt="ТОВ ЕЛНАВ"></a></p>
+                    </div>
+            </div><!-- /.useful_links_trig-->
+            </div>
+
+            <div class="col-md-3 col-md-2 col-xs-6">
+            <div class="useful_links_trig">
+                    <div class="useful_links__trig_icon">
+                         <p><a href="http://kmcgeo.com/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-10.png'; ?>" alt="ООО КМС"></a></p>
+                    </div>
+            </div><!-- /.useful_links_trig-->
+            </div>
+
+            <div class="col-md-3 col-md-2 col-xs-6">
+            <div class="useful_links_trig">
+                    <div class="useful_links__trig_icon">
+                         <p><a href="http://dgm.gki.com.ua/" target="_blank"><img class="img_icon_links" src="<?php echo get_template_directory_uri().'/img/icon-links-11.png'; ?>" alt="Державна геодезична мережа Україна"></a></p>
                     </div>
             </div><!-- /.useful_links_trig-->
             </div>
